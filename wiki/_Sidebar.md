@@ -67,6 +67,7 @@
 
 ### 🛠 Tech & Guides
 *   [Claude Code Architecture (Full)](The-Claude-Code-Architecture-and-Ecosystem-Exhaustive-Technical-Guide)
+*   [CLI & TUI Tools for macOS](CLI-and-TUI-Tools-for-macOS)
 *   [Claude Code Best Practices](Anthropic---Claude-Code-Best-Practices.pdf.md)
 *   [Text-to-SQL RAG Patterns](Architectural-Patterns-and-Tooling-for-Metadata-Driven-Text-to-SQL-RAG-Systems.md)
 *   [Streamlit Chatbot Guide](Building-Streamlit-Chatbot-with-Copilot.md)

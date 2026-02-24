@@ -115,6 +115,7 @@ This wiki is a curated collection of research, analysis, and strategic guides co
 
 ### 🛠 Tech Guides & Best Practices
 *   [Claude Code Architecture & Ecosystem (Exhaustive Guide)](The-Claude-Code-Architecture-and-Ecosystem-Exhaustive-Technical-Guide)
+*   [CLI and TUI Tools for macOS: The Ultimate Terminal Development Environment (2026)](CLI-and-TUI-Tools-for-macOS)
 *   [Anthropic - Claude Code Best Practices](Anthropic---Claude-Code-Best-Practices.pdf.md)
 *   [Architectural Patterns for Text-to-SQL RAG Systems](Architectural-Patterns-and-Tooling-for-Metadata-Driven-Text-to-SQL-RAG-Systems.md)
 *   [Building Streamlit Chatbot with Copilot](Building-Streamlit-Chatbot-with-Copilot.md)
