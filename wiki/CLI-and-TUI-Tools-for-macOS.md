@@ -396,12 +396,6 @@ To enhance visual context across any shell environment (Bash, Zsh, Fish, or Nush
 
 The most profound shift in the modern terminal ecosystem is the systematic replacement of GNU and POSIX standard utilities with modern counterparts designed for multi-core processors and contemporary developer ergonomics. These tools leverage Rust and Go to achieve extreme execution speeds while providing sensible default behaviors.
 
-
-
-<iframe allow="xr-spatial-tracking; web-share" sandbox="allow-pointer-lock allow-popups allow-forms allow-popups-to-escape-sandbox allow-downloads allow-scripts allow-same-origin" src="https://3ajdggx4n8d23f6fiwl8fjc5o8535lczev9fkkiom8cnssbhh4-h871335608.scf.usercontent.goog/gemini-code-immersive/shim.html?origin=https%3A%2F%2Fgemini.google.com&amp;cache=1" style="animation: auto; appearance: none; background: 0% 0% repeat rgba(0, 0, 0, 0); border: 0px rgb(31, 31, 31); inset: auto; clear: none; clip: auto; color: rgb(31, 31, 31); column-width: auto; column-count: auto; contain: none; container-name: none; container-type: normal; content: normal; cursor: auto; cx: 0px; cy: 0px; direction: ltr; display: flex; fill: rgb(0, 0, 0); filter: none; flex: 0 1 auto; gap: normal; hyphens: manual; isolation: auto; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; marker: none; mask: none; mask-size: auto; mask-composite: add; mask-mode: match-source; offset-path: none; offset-distance: 0px; offset-position: normal; offset-anchor: auto; offset-rotate: auto; opacity: 1; order: 0; orphans: 2; outline: rgb(31, 31, 31) 0px; padding: 0px; page: auto; perspective: none; quotes: auto; r: 0px; resize: none; rotate: none; rx: auto; ry: auto; scale: none; stroke: none; transform: none; transition: all; translate: none; visibility: visible; widows: 2; x: 0px; y: 0px; zoom: 1; margin-top: 0px !important; font-family: &quot;Google Sans Text&quot;, sans-serif !important; line-height: 1.15 !important;" data-dashlane-frameid="17549" data-dashlane-rid="0f1aa0cef79dea16"></iframe>
-
-
-
 ### Advanced File System Navigation
 
 The traditional `cd` (change directory) command has been entirely superseded by `zoxide`. Zoxide acts as a drop-in replacement that tracks the directories a user visits and ranks them using a sophisticated frequency-recency algorithm. Instead of typing a long, absolute path, a developer can type a partial string (e.g., `z proj`), and zoxide will instantly teleport them to the highest-matching directory across the entire file system. When combined with fuzzy finders, zoxide provides an interactive, heavily optimized interface for deep directory jumping.
@@ -605,12 +599,6 @@ Developers can dispatch massive workloads to `pueue` in the background, specify 
 ## AI and Agentic CLI Integration
 
 The most profound technological integration in the 2026 terminal ecosystem is the convergence of Large Language Models and the command line interface. Moving beyond IDE-bound extensions like standard GitHub Copilot, "Agentic CLI tools" permit AI models to operate autonomously directly on the local macOS file system.
-
-
-
-<iframe allow="xr-spatial-tracking; web-share" sandbox="allow-pointer-lock allow-popups allow-forms allow-popups-to-escape-sandbox allow-downloads allow-scripts allow-same-origin" src="https://4j7m7zp4qvp7up0h93aujy0mba05psd2830zagjnawzpffmlmq-h871335608.scf.usercontent.goog/gemini-code-immersive/shim.html?origin=https%3A%2F%2Fgemini.google.com&amp;cache=1" style="animation: auto; appearance: none; background: 0% 0% repeat rgba(0, 0, 0, 0); border: 0px rgb(31, 31, 31); inset: auto; clear: none; clip: auto; color: rgb(31, 31, 31); column-width: auto; column-count: auto; contain: none; container-name: none; container-type: normal; content: normal; cursor: auto; cx: 0px; cy: 0px; direction: ltr; display: flex; fill: rgb(0, 0, 0); filter: none; flex: 0 1 auto; gap: normal; hyphens: manual; isolation: auto; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; marker: none; mask: none; mask-size: auto; mask-composite: add; mask-mode: match-source; offset-path: none; offset-distance: 0px; offset-position: normal; offset-anchor: auto; offset-rotate: auto; opacity: 1; order: 0; orphans: 2; outline: rgb(31, 31, 31) 0px; padding: 0px; page: auto; perspective: none; quotes: auto; r: 0px; resize: none; rotate: none; rx: auto; ry: auto; scale: none; stroke: none; transform: none; transition: all; translate: none; visibility: visible; widows: 2; x: 0px; y: 0px; zoom: 1; margin-top: 0px !important; font-family: &quot;Google Sans Text&quot;, sans-serif !important; line-height: 1.15 !important;" data-dashlane-frameid="17550" data-dashlane-rid="c76711ea89a655f2"></iframe>
-
-
 
 Tools like `Claude Code` and `Gemini CLI` live natively in the terminal. They are capable of executing shell commands, analyzing the resulting output, reading entire codebase directories, and implementing complex refactors iteratively based on system feedback. This enables a workflow known as "Vibe Coding"—the process of writing natural language prompts and allowing the CLI agent to navigate the project architecture, write the source code, execute the test suites, and debug failures autonomously.
 
