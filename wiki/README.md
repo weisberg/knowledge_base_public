@@ -36,9 +36,27 @@ The future of data-driven decision making in the age of large language models an
 
 ## Maintenance
 
-This directory is automatically synchronized with the GitHub Wiki. Changes should be made in the wiki repository and mirrored here for mobile accessibility.
+The public KB lives in **two repos** and both must be updated for changes to appear everywhere:
 
-**Last synchronized**: 2026-02-22
+1. **This mirror** (`knowledge_base_public/wiki/`) — pushed via the main repo's `origin/main`. Provides mobile access (GitHub mobile clients can't view wikis).
+2. **The actual GitHub Wiki repo** (`knowledge_base_public.wiki.git`, branch `master`) — drives the wiki tab at https://github.com/weisberg/knowledge_base_public/wiki. Not cloned alongside the main repo.
+
+### Sync workflow
+
+When adding or editing a page:
+
+1. Edit the file in this mirror directory.
+2. Update `Home.md` and `_Sidebar.md` so the new page is linked.
+3. Commit and push from the main repo (`origin/main`).
+4. **Sync to the wiki repo** — pushing the mirror does NOT update the wiki tab:
+   ```bash
+   cd /tmp && rm -rf kb_wiki_sync
+   git clone https://github.com/weisberg/knowledge_base_public.wiki.git kb_wiki_sync
+   # copy changed files (new pages + Home.md + _Sidebar.md) into /tmp/kb_wiki_sync/
+   cd /tmp/kb_wiki_sync && git add -A && git commit -m "..." && git push
+   ```
+
+The wiki repo is flat (no subdirectories). Filenames use dashes and become URL slugs.
 
 ---
 
