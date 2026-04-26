@@ -65,6 +65,9 @@
 *   [Email Attribution Innovations](Email-Marketing-Holdout-Attribution-Innovations.md)
 *   [Science of Email Experimentation](The-science-of-email-marketing-experimentation)
 
+### 🎓 LLM Foundations
+*   [Karpathy: Deep Dive into LLMs](Andrej-Karpathy-Deep-Dive-into-LLMs)
+
 ### 🛠 Tech & Guides
 *   [Claude Code Architecture (Full)](The-Claude-Code-Architecture-and-Ecosystem-Exhaustive-Technical-Guide)
 *   [CLI & TUI Tools for macOS](CLI-and-TUI-Tools-for-macOS)

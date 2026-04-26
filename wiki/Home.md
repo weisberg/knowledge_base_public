@@ -113,6 +113,9 @@ This wiki is a curated collection of research, analysis, and strategic guides co
 ### 🧘 Psychology & Mental Health
 *   [50 Ways to Untwist Your Thinking](50-Ways-to-Untwist-Your-Thinking.md)
 
+### 🎓 LLM Foundations & Education
+*   [Andrej Karpathy — Deep Dive into LLMs](Andrej-Karpathy-Deep-Dive-into-LLMs) — A structured synthesis of Karpathy's 3-hour intro: pre-training, SFT, RL, RLHF, hallucinations, tool use, thinking models (DeepSeek-R1, o3), and practical mental models for using LLMs.
+
 ### 🛠 Tech Guides & Best Practices
 *   [Claude Code Architecture & Ecosystem (Exhaustive Guide)](The-Claude-Code-Architecture-and-Ecosystem-Exhaustive-Technical-Guide)
 *   [CLI and TUI Tools for macOS: The Ultimate Terminal Development Environment (2026)](CLI-and-TUI-Tools-for-macOS)
