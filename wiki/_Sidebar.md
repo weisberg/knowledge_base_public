@@ -88,6 +88,10 @@
 *   [Pro Analysis: VG529](Pro-Analysis-of-VG529-Plan.md)
 
 ### 📊 McKinsey AI
+*   **[MQ Synthesis: AI Agents](McKinsey-on-AI-Agents)**
+*   **[MQ Synthesis: Gen AI Value Gap](McKinsey-on-the-Gen-AI-Value-Gap)**
+*   **[MQ Synthesis: Talent & Workplace](McKinsey-on-AI-Talent-and-the-Workplace)**
+*   **[MQ Synthesis: Risk & Governance](McKinsey-on-AI-Risk-Safety-and-Governance)**
 *   [What is an Agent?](McKinsey-What-is-an-AI-Agent.pdf.md)
 *   [McKinsey Mind](The-AI-Augmented-McKinsey-Mind-Re-architecting-Strategic-Problem-Solving-with-LLMs-and-Agentic-Systems.md)
 *   [Report Writing](McKinsey-Report-Writing-Process-Analysis.md)

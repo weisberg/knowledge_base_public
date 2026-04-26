@@ -137,6 +137,10 @@ This wiki is a curated collection of research, analysis, and strategic guides co
 *   [Pro Analysis of VG529 Plan](Pro-Analysis-of-VG529-Plan.md)
 
 ### 📊 McKinsey AI Articles
+*   **[McKinsey on AI Agents](McKinsey-on-AI-Agents)** — synthesis across MQ 2024 Q4 → 2025 Q4 → 2026 Q1: agent definitions, the agentic organization's five pillars, CEO mandates
+*   **[McKinsey on the Gen AI Value Gap](McKinsey-on-the-Gen-AI-Value-Gap)** — why 80% of gen AI deployments deliver no EBIT impact; Take/Shape/Make framework; AI high-performer behaviors
+*   **[McKinsey on AI, Talent, and the Workplace](McKinsey-on-AI-Talent-and-the-Workplace)** — workforce segmentation, retention crisis, building "AI muscle" in domain-owner leaders
+*   **[McKinsey on AI Risk, Safety, and Governance](McKinsey-on-AI-Risk-Safety-and-Governance)** — eight-category gen AI risk taxonomy, agentic threat classes, frontier-model blackmail findings
 *   [What is an AI Agent?](McKinsey-What-is-an-AI-Agent.pdf.md)
 *   [The AI-Augmented McKinsey Mind](The-AI-Augmented-McKinsey-Mind-Re-architecting-Strategic-Problem-Solving-with-LLMs-and-Agentic-Systems.md)
 *   [McKinsey Report Writing Process Analysis](McKinsey-Report-Writing-Process-Analysis.md)
